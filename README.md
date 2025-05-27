@@ -12,6 +12,7 @@
     - [almirah3](https://sketchfab.com/3d-models/rusty-cupboard-lowpolyvray-1955665c1d3b493a84e0c41c9f71b777)
     - [knife1](https://assetstore.unity.com/packages/3d/props/weapons/hq-kitchen-rusty-knife-83994)
     - [knife2](https://sketchfab.com/3d-models/knife-d19566b7806e4eff89d655536cb55dc2)
+    - [curtain](https://sketchfab.com/3d-models/cortina-curtain-new-20-3706dec29e3947ff8924a71a812a8cf3)
 - lobby
     - vending
     - keys
