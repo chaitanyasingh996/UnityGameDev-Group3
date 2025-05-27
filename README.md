@@ -14,7 +14,7 @@
     - [knife2](https://sketchfab.com/3d-models/knife-d19566b7806e4eff89d655536cb55dc2)
     - [curtain](https://sketchfab.com/3d-models/cortina-curtain-new-20-3706dec29e3947ff8924a71a812a8cf3)
 - lobby
-    - vending
-    - keys
-    - pistol
+- [vending](https://www.cgtrader.com/free-3d-models/electronics/other/vending-machine-4910589f-ccc0-48ff-bf1e-08af4c6ab756)
+- [keys](https://www.freepik.com/free-vector/realistic-keys-with-leather-pendant-isolated-white-background-vector-illustration_50380379.htm#fromView=keyword&page=1&position=40&uuid=aed1f97a-a1bd-4e2e-aedd-2b3a360759c3&query=3d+Keys)
+- [pistol](https://free3d.com/3d-model/beretta-m9-48306.html)
 
